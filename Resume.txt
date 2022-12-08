@@ -1,3 +1,4 @@
 Name:P.Suhasini
 Address:Pragathi Nagar
+DOB:06-06-2003
 Skills:C,DS,C++,HTML
